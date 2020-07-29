@@ -20,6 +20,6 @@
 
 # This Password Generator Generate Password(8-128 No of Characters)
 
-# https://priyadarshan2000.github.io/PriyadarshanPasswordGenerator/
+
 
 # Thanks.........
