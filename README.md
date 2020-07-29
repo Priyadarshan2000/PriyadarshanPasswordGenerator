@@ -1,7 +1,7 @@
 # PriyadarshanPasswordGenerator Demonstration
 ![20200729_161841](https://user-images.githubusercontent.com/62868878/88791449-572cde00-d1b7-11ea-857c-5464432f8660.gif)
 
-# Password Generator Home Page
+#  Priyadarshan Password Generator Home Page
 ![image](https://user-images.githubusercontent.com/62868878/88789651-9d347280-d1b4-11ea-86d9-85ba825c999d.png)
 
 # Lowercase Password Generate
